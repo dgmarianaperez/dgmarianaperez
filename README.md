@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @dgmarianaperez
 - 📚 Lifelong learner
 - 🌱 I’m currently learning about API's
-- 💞️ I love CSS, enjoy web design and frontend development
+- 💞️ I love CSS, enjoy web design
 - 📫 How to reach me? I'll tell you soon...
 
 <!--- - 💞️ I’m looking to collaborate on ...
